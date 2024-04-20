@@ -1,0 +1,25 @@
+.btn {
+    height: 40px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+.btn-red {
+    color: white;
+    background-color: red;
+}
+
+.btn-green {
+    color: white;
+    background-color: green;
+}
+
+.btn-blue {
+    color: white;
+    background-color: blue;
+}
+
+
+.btn-margin {
+    margin: 30px 50px;
+}
